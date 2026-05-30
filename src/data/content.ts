@@ -5,7 +5,7 @@ export const CONTACT = {
   linkedin: "https://www.linkedin.com/in/aditya-singh-a246b82b0/",
   linkedinHandle: "aditya-singh-a246b82b0",
   location: "Bengaluru, India",
-  availability: "Open for full-time from June 2026",
+  availability: "Open for full-time Opportunities",
   relocate: "Bengaluru · Remote · Open to relocation",
 };
 
