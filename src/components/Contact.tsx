@@ -5,7 +5,12 @@ const links = [
   { label: "Email",    val: CONTACT.email,           href: `mailto:${CONTACT.email}`, external: true  },
   { label: "Phone",    val: CONTACT.phone,            href: CONTACT.phoneHref,         external: false },
   { label: "LinkedIn", val: CONTACT.linkedinHandle,   href: CONTACT.linkedin,          external: true  },
-  { label: "Resume",   val: "Request PDF via email",  href: `mailto:${CONTACT.email}?subject=Resume%20Request&body=Hi%20Aditya%2C%20I%27d%20love%20to%20see%20your%20latest%20resume.`, external: true },
+  {
+  label: "Resume",
+  val: "Download Resume",
+  href: "/Aditya_Singh_CV.pdf",
+  external: true
+},
 ];
 
 export default function Contact() {
