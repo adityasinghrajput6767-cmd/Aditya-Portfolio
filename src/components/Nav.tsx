@@ -60,7 +60,7 @@ export default function Nav() {
         </a>
 
         <a
-          href={`mailto:${CONTACT.email}`}
+          href="#contact"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[13px] font-medium no-underline px-3.5 py-1.5 rounded-full transition-all duration-150"
