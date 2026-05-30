@@ -77,7 +77,7 @@ export default function Hero() {
           </a>
           
 <a
-  href="/Aditya_singh_cv.pdf"
+  href="/Aditya_Singh_CV.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center gap-2 text-[14px] font-medium px-[22px] py-[11px] rounded-full"
