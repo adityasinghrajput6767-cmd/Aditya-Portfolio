@@ -3,7 +3,7 @@ export const CONTACT = {
   phone: "+91 77392 86405",
   phoneHref: "tel:+917739286405",
   linkedin: "https://www.linkedin.com/in/aditya-singh-a246b82b0/",
-  linkedinHandle: "aditya-singh-a246b82b0",
+  linkedinHandle: "Aditya Singh",
   location: "Bengaluru, India",
   availability: "Open for full-time Opportunities",
   relocate: "Bengaluru · Remote · Open to relocation",
