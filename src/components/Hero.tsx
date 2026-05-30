@@ -46,9 +46,9 @@ export default function Hero() {
         <br />
         that{" "}
         <em className="italic" style={{ color: "#c84b0f" }}>
-          grow
+          drive
         </em>{" "}
-        startups.
+        Revenue.
       </h1>
 
       {/* Bottom row */}
