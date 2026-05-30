@@ -54,8 +54,10 @@ export default function Hero() {
       {/* Bottom row */}
       <div className="flex items-end justify-between gap-8 flex-wrap">
         <p className="text-[15px] leading-[1.65]" style={{ color: "#4a4640", maxWidth: "440px" }}>
-          Final-year BBA at TAPMI. Shipped 50+ experiments across acquisition, activation, and
-          retention for AI-first B2B startups. Every result tracked.
+          Final-year BBA at TAPMI with experience across Growth Marketing,
+          GTM Strategy, Founder’s Office and Product-Led Growth initiatives.
+          Built and scaled acquisition systems, executed experiments,
+          and translated customer insights into business outcomes.
         </p>
 
         <div className="flex gap-2.5 flex-shrink-0 flex-wrap">
