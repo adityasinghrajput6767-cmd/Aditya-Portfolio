@@ -72,8 +72,24 @@ export default function Hero() {
               (e.currentTarget as HTMLAnchorElement).style.borderColor = "#0f0e0d";
             }}
           >
-            See my work
+             
+            View Case Studies
           </a>
+          
+<a
+  href="/Aditya_singh_cv.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 text-[14px] font-medium px-[22px] py-[11px] rounded-full"
+  style={{
+    background: "#c84b0f",
+    color: "#faf9f7",
+    border: "1px solid #c84b0f"
+  }}
+>
+  Resume ↗
+</a>
+
           <a
             href={`mailto:${CONTACT.email}`}
             target="_blank"
